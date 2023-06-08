@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Zing-X
-- programming 💻 
-- violin 🎻
-- weight training 👟
-- 🌱 I’m currently learning tensorflow and everything about AI
